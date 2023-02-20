@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author enjoi
- *
- */
-module OmokGame {
-}
