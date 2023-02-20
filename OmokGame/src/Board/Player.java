@@ -2,7 +2,7 @@ package Board;
 
 public class Player {
 	private String name;
-	private Boolean human;// 0: human, 1: computer
+	private Boolean human;
 	private Boolean turn;
 	private Boolean win;
 	
