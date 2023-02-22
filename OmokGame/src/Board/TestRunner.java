@@ -1,6 +1,6 @@
 package Board;
 
-import java.util.Scanner;  // Import the Scanner class
+//import java.util.Scanner;  // Import the Scanner class
 
 public class TestRunner {
 
@@ -8,8 +8,7 @@ public class TestRunner {
 		// TODO Auto-generated method stub
 		OmokGame game = new OmokGame();
 		
-		game.setup();
-		game.play();
+		game.startOmokGame();
 		
 	
 	}
