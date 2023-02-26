@@ -1,7 +1,8 @@
 package Board;
 
 //import java.util.Scanner;
-
+//Started to work on project in another eclipse workspace
+//Project is finished over there just pushing to git to screenshot 
 public class OmokGame {
 	
 	private BoardGameUI ui;
